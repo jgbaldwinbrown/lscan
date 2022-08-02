@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 	"bufio"
-	"../lscan"
+	"github.com/jgbaldwinbrown/lscan/pkg"
 	"github.com/pkg/profile"
 )
 

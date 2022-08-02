@@ -4,7 +4,7 @@ import (
 	"os"
 	"strings"
 	"bufio"
-	"../lscan"
+	"github.com/jgbaldwinbrown/lscan/pkg"
 )
 
 func main() {
